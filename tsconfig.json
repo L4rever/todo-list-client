@@ -14,6 +14,7 @@
     "allowImportingTsExtensions": true,
     "alwaysStrict": true,
     "lib": ["ESNext", "DOM"],
+    "skipLibCheck": true,
   },
   "include": ["src/**/*"]
 }
